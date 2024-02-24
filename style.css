@@ -1,0 +1,37 @@
+body {
+  font-family: arial;
+  font-size: 28pt;
+  text-transform: uppercase;
+  margin: 30px;
+}
+
+span {
+color: #27ae60; 
+}
+
+div span {
+color: #2980b9; 
+}
+
+#floor .cat-color {
+color: #34495e; 
+}
+
+.cat-color {
+color: #8e44ad; 
+}
+
+#floor span {
+color: #c0392b; 
+}
+
+div .cat-color {
+color: #e67e22; 
+}
+
+h1 {
+color: red;
+}
+h1 {
+color: blue;
+  }
